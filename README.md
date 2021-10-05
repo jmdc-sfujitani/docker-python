@@ -17,7 +17,9 @@ docker-compose exec python3 bash
 
 ## コンテナを削除する
 
+```
 docker-compose down
+```
 
 ## ライブラリを追加する場合
 
